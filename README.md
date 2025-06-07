@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working at **Jaaaga Info Solutions LLP**
+- 🔭 I’m currently working at **Biz-Link pvt ltd**
 - 🌟 Building projects like **WEN**, **Jaaaga Coworking Space**, and **Biz Network**
 - 💻 Working with **Next.js**, **Tailwind CSS**, **Prisma**, **PostgreSQL**, **Cloudinary**, **Turborepo**
 - 🌍 Active member of **Hyderabad Startup - Business Promotion Group**
